@@ -10,3 +10,6 @@ to use:
 
 4) click on PNG or SVG to obtain image (image opens in new window that you can "save as" to your local device)
 
+Preview:
+
+![value for value UML sequence diagram](https://raw.githubusercontent.com/ComicStrip/podcasting-2.0-UML-diagrams/main/v4v-UML-squence.png)
