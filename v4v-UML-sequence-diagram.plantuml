@@ -2,8 +2,6 @@
 
 @startuml
 actor Listener #cyan
-' The only difference between actor
-'and participant is the drawing
 participant "Podcasting 2.0\nmobile/web app " as App #99FF99
 participant "PodcastIndex.org\nAPI" as Ind #red
 participant "Bitcoin Lightning\nwallet" as Btc #orange
