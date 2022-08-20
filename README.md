@@ -8,5 +8,5 @@ to use:
 
 3) copy and paste source code of given *.plantuml file (but only lines starting with @startuml and ending with @enduml)
 
-4) click on PNG or SVG to obtain image
+4) click on PNG or SVG to obtain image (image opens in new window that you can "save as" to your local device)
 
