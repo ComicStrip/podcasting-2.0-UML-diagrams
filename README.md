@@ -6,7 +6,7 @@ to use:
 
 2) at the bottom click on "online demo server"
 
-3) copy and paste source code of given *.plantuml file
+3) copy and paste source code of given *.plantuml file (but only lines starting with @staruml and ending @enduml)
 
 4) click on PNG or SVG to obtain image
 
