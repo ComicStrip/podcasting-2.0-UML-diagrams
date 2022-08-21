@@ -10,7 +10,7 @@ Podcaster->Ind: register your podcast
 Listener->App: Download & Install
 App->Ind: call to find podcasts
 Listener->App: Subscribe to a podcast
-Listener->Btc: buy Bitcoin Lightning
+Listener->Btc: buy Bitcoin and convert it to Bitcoin Lightning
 Listener->App: request invoice of\nBitcoin Lightning\nto charge podcatcher app
 Listener->Btc: pay the invoice by pasting it as text
 Btc->App: transfer Bitcoin Lightning 
